@@ -1,0 +1,5 @@
+3;ff;7 dias;300.0;true;Interprovincial;
+70;CUENCA;15 dias;450.0;false;Intraprovincial;
+43;CSAC;7 dias;200.0;true;Interprovincial;
+2-DSVSD-15 dias-300.0-true-Interprovincial-0-DSVDS-DSVSD
+34-csc-7 dias-300.0-true-Interprovincial-0-dacv-dvcds

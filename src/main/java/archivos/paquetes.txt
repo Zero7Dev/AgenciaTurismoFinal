@@ -1,0 +1,15 @@
+3;GUAYAQUIL;15 dias;300;true;Intraprovincial;450;n;nn;COSTA
+1;MILAGRO;30 dias;350;true;Intraprovincial;550;n;nn;COSTA2
+2;DURAN;15 dias;300;true;Intraprovincial;450;n;nn;COSTA3
+4;MILAGRO;30 dias;400;false;Interprovincial;575;n;nn;SIERRA
+5;CUENCA;30 dias;450;false;Interprovincial;625;n;nn;SIERRA2
+6;QUITO;30 dias;450;false;Interprovincial;625;n;nn;SIERRA3
+10;QUITO;30 dias;450;false;Interprovincial;625;n;nn;SIERRA4
+10;puyo;30 dias;450;false;Interprovincial;625;n;nn;ORIENTE5
+11;puyo;7 dias;250;false;Interprovincial;325;n;nn;ORIENTE6
+1;guayaquil;7 dias;300;true;Interprovincial;425;dscvds;sfvfds;costa
+1;guayaquil;7 dias;300;true;Interprovincial;425;dscvds;sfvfds;costas
+1;guayaquil;7 dias;300;true;Interprovincial;425;dscvds;sfvfds;costas
+1;guayaquil;7 dias;300;true;Interprovincial;425;dscvds;sfvfds;costas
+120;guayaquil;7 dias;250;true;Interprovincial;375;nada;nadaaaaa;ale
+212;evcs;7 dias;250;true;Interprovincial;375;dvs;sdvs;costadvsv
